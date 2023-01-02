@@ -4,7 +4,15 @@ body {
     height: 100vh;
 }
 
+h1 {
+    text-align: center;
+    margin: 50px;
+}
+
 .addNewTask {
+    display: flex;
+    justify-content: center;
     background-color: purple;
+    
 }
 
